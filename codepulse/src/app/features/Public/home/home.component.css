@@ -1,0 +1,7 @@
+.container img
+{
+ width :99%;
+ aspect-ratio: 3/2;
+ object-fit: contain;
+
+}
